@@ -1,165 +1,197 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Beinsports_Haber.tr" tvg-name="Beinsports Haber",Beinsports Haber
+#EXTINF:-1 tvg-id="A_Spor.tr" tvg-name="A Spor" group-title="TV Kanallari",A Spor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
-https://millioldum2026.betcolivecdn5.shop/beinsportshaber/index.m3u8?md5=InOeOVyPLTS9TC-e5tDmMg&expires=1787515987
-#EXTINF:-1 tvg-id="beIN_Sports_1.tr" tvg-name="beIN Sports 1",beIN Sports 1
+https://millioldum2026.betcolivecdn5.shop/aspor/index.m3u8?md5=Y4l_F1GSnh0WDUsItjLA7Q&expires=1787517627
+#EXTINF:-1 tvg-id="Beinsports_Haber.tr" tvg-name="Beinsports Haber" group-title="TV Kanallari",Beinsports Haber
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
-https://millioldum2026.betcolivecdn5.shop/601/index.m3u8?md5=Uwqeh989o51pmHc5ieD0iw&expires=1787515995
-#EXTINF:-1 tvg-id="beIN_Sports_4.tr" tvg-name="beIN Sports 4",beIN Sports 4
+https://millioldum2026.betcolivecdn5.shop/beinsportshaber/index.m3u8?md5=qKs8lOeONWtyGz3dxfRDJQ&expires=1787517632
+#EXTINF:-1 tvg-id="DAZN_1.tr" tvg-name="DAZN 1" group-title="TV Kanallari",DAZN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
-https://millioldum2026.betcolivecdn5.shop/604/index.m3u8?md5=ODapcE--fPBv96lyP3lHnQ&expires=1787516003
-#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8",TV8
+https://millioldum2026.betcolivecdn5.shop/dazn1/index.m3u8?md5=QVgUmjYHEXKrmbFIxlm2FA&expires=1787517637
+#EXTINF:-1 tvg-id="DAZN_2.tr" tvg-name="DAZN 2" group-title="TV Kanallari",DAZN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
-https://millioldum2026.betcolivecdn5.shop/tv8/index.m3u8?md5=gR9fCPcCpmcjggvhlNIdGw&expires=1787516011
-#EXTINF:-1 tvg-id="TV85.tr" tvg-name="TV8,5",TV8,5
+https://millioldum2026.betcolivecdn5.shop/dazn2/index.m3u8?md5=opLIPqWXTfli5b0qFVFFDQ&expires=1787517642
+#EXTINF:-1 tvg-id="DAZN_3.tr" tvg-name="DAZN 3" group-title="TV Kanallari",DAZN 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
-https://millioldum2026.betcolivecdn5.shop/tv85/index.m3u8?md5=QZ-RkSIYWYxsTmy4XwylOw&expires=1787516019
-#EXTINF:-1 tvg-id="TRT_1.tr" tvg-name="TRT 1",TRT 1
+https://millioldum2026.betcolivecdn5.shop/dazn3/index.m3u8?md5=3Z8fStG7S1qOyozRUFULqQ&expires=1787517647
+#EXTINF:-1 tvg-id="ESPN_1.tr" tvg-name="ESPN 1" group-title="TV Kanallari",ESPN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
-https://millioldum2026.betcolivecdn5.shop/trt1/index.m3u8?md5=KtEQbt2255lb4RrENNnJcQ&expires=1787516027
-#EXTINF:-1 tvg-id="TRT_Spor.tr" tvg-name="TRT Spor",TRT Spor
+https://millioldum2026.betcolivecdn5.shop/espn/index.m3u8?md5=9FxaAFnZRhkr5_RMaIi-ig&expires=1787517652
+#EXTINF:-1 tvg-id="ESPN_2.tr" tvg-name="ESPN 2" group-title="TV Kanallari",ESPN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
-https://millioldum2026.betcolivecdn5.shop/trtspor/index.m3u8?md5=IplZuStiEHRUR3U1EhkidQ&expires=1787516035
-#EXTINF:-1 tvg-id="TRT_Spor_Yıldız.tr" tvg-name="TRT Spor Yıldız",TRT Spor Yıldız
+https://millioldum2026.betcolivecdn5.shop/espn2/index.m3u8?md5=aucDjl_r9izdSqGESYv9yA&expires=1787517657
+#EXTINF:-1 tvg-id="ESPN_3.tr" tvg-name="ESPN 3" group-title="TV Kanallari",ESPN 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
-https://millioldum2026.betcolivecdn5.shop/trtspor2/index.m3u8?md5=vZfOVnQcKRLMhTzW2WS50w&expires=1787516043
-#EXTINF:-1 tvg-id="A_Spor.tr" tvg-name="A Spor",A Spor
+https://millioldum2026.betcolivecdn5.shop/espn3/index.m3u8?md5=6XaxWBRF4O-4TGnU0efuwQ&expires=1787517662
+#EXTINF:-1 tvg-id="Eurosport_1.tr" tvg-name="Eurosport 1" group-title="TV Kanallari",Eurosport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
-https://millioldum2026.betcolivecdn5.shop/aspor/index.m3u8?md5=vL54bsdWUas3n3GHFCp_fQ&expires=1787516051
-#EXTINF:-1 tvg-id="HT_Spor.tr" tvg-name="HT Spor",HT Spor
+https://millioldum2026.betcolivecdn5.shop/eurosport1/index.m3u8?md5=IiWgP7Wj3Jy-ahbsn0zrvQ&expires=1787517667
+#EXTINF:-1 tvg-id="Eurosport_2.tr" tvg-name="Eurosport 2" group-title="TV Kanallari",Eurosport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
-https://millioldum2026.betcolivecdn5.shop/htspor/index.m3u8?md5=Eue3mAEIup8DIHN9unbd8w&expires=1787516059
-#EXTINF:-1 tvg-id="Fenerbahçe_TV.tr" tvg-name="Fenerbahçe TV",Fenerbahçe TV
+https://millioldum2026.betcolivecdn5.shop/eurosport2/index.m3u8?md5=Aeiia9f60tqzVXyqyaxkzg&expires=1787517672
+#EXTINF:-1 tvg-id="Fenerbahçe_TV.tr" tvg-name="Fenerbahçe TV" group-title="TV Kanallari",Fenerbahçe TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
-https://millioldum2026.betcolivecdn5.shop/fbtv/index.m3u8?md5=0TFIut134WnntNGublvAYw&expires=1787516067
-#EXTINF:-1 tvg-id="Sports_TV_HD.tr" tvg-name="Sports TV HD",Sports TV HD
+https://millioldum2026.betcolivecdn5.shop/fbtv/index.m3u8?md5=7lD122nkvYdyy6FAToFUeg&expires=1787517677
+#EXTINF:-1 tvg-id="HT_Spor.tr" tvg-name="HT Spor" group-title="TV Kanallari",HT Spor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
-https://millioldum2026.betcolivecdn5.shop/sportstv/index.m3u8?md5=-c1VdNuOw2NhMtcryqOJ7w&expires=1787516075
-#EXTINF:-1 tvg-id="Eurosport_1.tr" tvg-name="Eurosport 1",Eurosport 1
+https://millioldum2026.betcolivecdn5.shop/htspor/index.m3u8?md5=Vs2d_P3eu82Eh-kEmf868A&expires=1787517682
+#EXTINF:-1 tvg-id="S-Sport_1.tr" tvg-name="S-Sport 1" group-title="TV Kanallari",S-Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
-https://millioldum2026.betcolivecdn5.shop/eurosport1/index.m3u8?md5=zE_EBX5np6O8vAroZzJTWA&expires=1787516083
-#EXTINF:-1 tvg-id="Eurosport_2.tr" tvg-name="Eurosport 2",Eurosport 2
+https://millioldum2026.betcolivecdn5.shop/607/index.m3u8?md5=UrN4AHey0X_mzL-V0U6O6w&expires=1787517687
+#EXTINF:-1 tvg-id="S-Sport_2.tr" tvg-name="S-Sport 2" group-title="TV Kanallari",S-Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
-https://millioldum2026.betcolivecdn5.shop/eurosport2/index.m3u8?md5=iesDwV9K52DYxwH4tGiVqw&expires=1787516091
-#EXTINF:-1 tvg-id="S-Sport_1.tr" tvg-name="S-Sport 1",S-Sport 1
+https://millioldum2026.betcolivecdn5.shop/608/index.m3u8?md5=NKiyBYyDUtD-6vH5dbI4aw&expires=1787517692
+#EXTINF:-1 tvg-id="Sky_Sports_1.tr" tvg-name="Sky Sports 1" group-title="TV Kanallari",Sky Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
-https://millioldum2026.betcolivecdn5.shop/607/index.m3u8?md5=f50vBecL02nXNjbROZHC_Q&expires=1787516099
-#EXTINF:-1 tvg-id="S-Sport_2.tr" tvg-name="S-Sport 2",S-Sport 2
+https://millioldum2026.betcolivecdn5.shop/skysports1/index.m3u8?md5=Lzb8h7ft7SgRvTJwqeYJWg&expires=1787517697
+#EXTINF:-1 tvg-id="Sky_Sports_2.tr" tvg-name="Sky Sports 2" group-title="TV Kanallari",Sky Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
-https://millioldum2026.betcolivecdn5.shop/608/index.m3u8?md5=0dm6-ZJgWMfOc2LhlpipKA&expires=1787516107
-#EXTINF:-1 tvg-id="Spor_Smart_1.tr" tvg-name="Spor Smart 1",Spor Smart 1
+https://millioldum2026.betcolivecdn5.shop/skysports2/index.m3u8?md5=_jHTKY15Dmq39sG1NPlHRA&expires=1787517702
+#EXTINF:-1 tvg-id="Sky_Sports_3.tr" tvg-name="Sky Sports 3" group-title="TV Kanallari",Sky Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
-https://millioldum2026.betcolivecdn5.shop/609/index.m3u8?md5=R_2fKNq8Sd1xsd_-18YaEA&expires=1787516115
-#EXTINF:-1 tvg-id="Spor_Smart_2.tr" tvg-name="Spor Smart 2",Spor Smart 2
+https://millioldum2026.betcolivecdn5.shop/skysports3/index.m3u8?md5=COqNcZv3TTOrfY5hmBVW3w&expires=1787517707
+#EXTINF:-1 tvg-id="Spor_Smart_1.tr" tvg-name="Spor Smart 1" group-title="TV Kanallari",Spor Smart 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
-https://millioldum2026.betcolivecdn5.shop/610/index.m3u8?md5=XCfO9mdAXCu579Y6kZQBpA&expires=1787516123
-#EXTINF:-1 tvg-id="Tivibuspor.tr" tvg-name="Tivibuspor",Tivibuspor
+https://millioldum2026.betcolivecdn5.shop/609/index.m3u8?md5=TVpV6o7m-4mrZAdXdwUN9g&expires=1787517712
+#EXTINF:-1 tvg-id="Spor_Smart_2.tr" tvg-name="Spor Smart 2" group-title="TV Kanallari",Spor Smart 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
-https://millioldum2026.betcolivecdn5.shop/700/index.m3u8?md5=SHvBC444NC9D46GTGHvtXg&expires=1787516131
-#EXTINF:-1 tvg-id="Tivibuspor_1.tr" tvg-name="Tivibuspor 1",Tivibuspor 1
+https://millioldum2026.betcolivecdn5.shop/610/index.m3u8?md5=TQ40_AbI3ffZ8dyD-0Ja7Q&expires=1787517717
+#EXTINF:-1 tvg-id="Sports_TV_HD.tr" tvg-name="Sports TV HD" group-title="TV Kanallari",Sports TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
-https://millioldum2026.betcolivecdn5.shop/701/index.m3u8?md5=R68foKUKGSPx01kddfDSew&expires=1787516139
-#EXTINF:-1 tvg-id="Tivibuspor_2.tr" tvg-name="Tivibuspor 2",Tivibuspor 2
+https://millioldum2026.betcolivecdn5.shop/sportstv/index.m3u8?md5=HMToYBCaYa_XsV0QZBT09w&expires=1787517722
+#EXTINF:-1 tvg-id="TRT_1.tr" tvg-name="TRT 1" group-title="TV Kanallari",TRT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
-https://millioldum2026.betcolivecdn5.shop/702/index.m3u8?md5=pWkqevdhului3CpvUU2DuQ&expires=1787516147
-#EXTINF:-1 tvg-id="Tivibuspor_3.tr" tvg-name="Tivibuspor 3",Tivibuspor 3
+https://millioldum2026.betcolivecdn5.shop/trt1/index.m3u8?md5=puhzCdj3TrP1O7_SmYzBzw&expires=1787517727
+#EXTINF:-1 tvg-id="TRT_Spor.tr" tvg-name="TRT Spor" group-title="TV Kanallari",TRT Spor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
-https://millioldum2026.betcolivecdn5.shop/703/index.m3u8?md5=myG511tuSp9xnS9UVlGOzQ&expires=1787516155
-#EXTINF:-1 tvg-id="Tivibuspor_4.tr" tvg-name="Tivibuspor 4",Tivibuspor 4
+https://millioldum2026.betcolivecdn5.shop/trtspor/index.m3u8?md5=C2ZW2JDTLbu-O8k-u49-KQ&expires=1787517732
+#EXTINF:-1 tvg-id="TRT_Spor_Yıldız.tr" tvg-name="TRT Spor Yıldız" group-title="TV Kanallari",TRT Spor Yıldız
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
-https://millioldum2026.betcolivecdn5.shop/704/index.m3u8?md5=9JoG6AhrJcVl-mga3aJLmQ&expires=1787516163
-#EXTINF:-1 tvg-id="Tabiispor.tr" tvg-name="Tabiispor",Tabiispor
+https://millioldum2026.betcolivecdn5.shop/trtspor2/index.m3u8?md5=z7vp5QwPovRZ_um8cGhS2w&expires=1787517737
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8" group-title="TV Kanallari",TV8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
-https://millioldum2026.betcolivecdn5.shop/tabii/index.m3u8?md5=tYS69OKKXmYAFQQeY2xM2g&expires=1787516171
-#EXTINF:-1 tvg-id="Tabiispor_1.tr" tvg-name="Tabiispor 1",Tabiispor 1
+https://millioldum2026.betcolivecdn5.shop/tv8/index.m3u8?md5=nmUZcDH0jwScH3Bt3b4_0A&expires=1787517742
+#EXTINF:-1 tvg-id="TV85.tr" tvg-name="TV8,5" group-title="TV Kanallari",TV8,5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
-https://millioldum2026.betcolivecdn5.shop/tabii1/index.m3u8?md5=OjqXFwQDhE00LZ0vz_pcBA&expires=1787516179
-#EXTINF:-1 tvg-id="Tabiispor_2.tr" tvg-name="Tabiispor 2",Tabiispor 2
+https://millioldum2026.betcolivecdn5.shop/tv85/index.m3u8?md5=PrMh7y_A99JQ227V1oke7g&expires=1787517747
+#EXTINF:-1 tvg-id="Tabiispor.tr" tvg-name="Tabiispor" group-title="TV Kanallari",Tabiispor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
-https://millioldum2026.betcolivecdn5.shop/tabii2/index.m3u8?md5=3RvfjiI1pvUpS8NxKuv-Xw&expires=1787516187
-#EXTINF:-1 tvg-id="Tabiispor_3.tr" tvg-name="Tabiispor 3",Tabiispor 3
+https://millioldum2026.betcolivecdn5.shop/tabii/index.m3u8?md5=SkAbpEasxoXl1ZwAYUH8GA&expires=1787517752
+#EXTINF:-1 tvg-id="Tabiispor_1.tr" tvg-name="Tabiispor 1" group-title="TV Kanallari",Tabiispor 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
-https://millioldum2026.betcolivecdn5.shop/tabii3/index.m3u8?md5=4iolXHXdTjCrOIuU2x0GyQ&expires=1787516195
-#EXTINF:-1 tvg-id="Tabiispor_3.tr" tvg-name="Tabiispor 3",Tabiispor 3
+https://millioldum2026.betcolivecdn5.shop/tabii1/index.m3u8?md5=yIkk1xpFp-Lqp3IiHckCuQ&expires=1787517757
+#EXTINF:-1 tvg-id="Tabiispor_2.tr" tvg-name="Tabiispor 2" group-title="TV Kanallari",Tabiispor 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
-https://millioldum2026.betcolivecdn5.shop/tabii4/index.m3u8?md5=iLs_xcZNw5eEDIqRXk3WOw&expires=1787516203
-#EXTINF:-1 tvg-id="Tabiispor_5.tr" tvg-name="Tabiispor 5",Tabiispor 5
+https://millioldum2026.betcolivecdn5.shop/tabii2/index.m3u8?md5=68yG0CA7UGPfxZEJOLtBfw&expires=1787517762
+#EXTINF:-1 tvg-id="Tabiispor_3.tr" tvg-name="Tabiispor 3" group-title="TV Kanallari",Tabiispor 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
-https://millioldum2026.betcolivecdn5.shop/tabii5/index.m3u8?md5=WMOnW3mdwN80yHswG8IaAQ&expires=1787516211
-#EXTINF:-1 tvg-id="Tabiispor_6.tr" tvg-name="Tabiispor 6",Tabiispor 6
+https://millioldum2026.betcolivecdn5.shop/tabii3/index.m3u8?md5=zhfcwQdHS0a82gv2SBt1YQ&expires=1787517767
+#EXTINF:-1 tvg-id="Tabiispor_3.tr" tvg-name="Tabiispor 3" group-title="TV Kanallari",Tabiispor 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
-https://millioldum2026.betcolivecdn5.shop/tabii6/index.m3u8?md5=IGtQ0cp9rEMnu6RM6LaCcg&expires=1787516219
-#EXTINF:-1 tvg-id="Tabiispor_7.tr" tvg-name="Tabiispor 7",Tabiispor 7
+https://millioldum2026.betcolivecdn5.shop/tabii4/index.m3u8?md5=slRdH-9JfF1FS3z2anaTXw&expires=1787517772
+#EXTINF:-1 tvg-id="Tabiispor_5.tr" tvg-name="Tabiispor 5" group-title="TV Kanallari",Tabiispor 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
-https://millioldum2026.betcolivecdn5.shop/tabii7/index.m3u8?md5=rx30Oj9cPAb6eJgAFvFC9g&expires=1787516227
-#EXTINF:-1 tvg-id="Tabiispor_8.tr" tvg-name="Tabiispor 8",Tabiispor 8
+https://millioldum2026.betcolivecdn5.shop/tabii5/index.m3u8?md5=zFHjfVGDMyD1nGYigttfUw&expires=1787517777
+#EXTINF:-1 tvg-id="Tabiispor_6.tr" tvg-name="Tabiispor 6" group-title="TV Kanallari",Tabiispor 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
-https://millioldum2026.betcolivecdn5.shop/tabii8/index.m3u8?md5=h-2u9h_r-XhynCUZ6hhCmw&expires=1787516235
-#EXTINF:-1 tvg-id="DAZN_1.tr" tvg-name="DAZN 1",DAZN 1
+https://millioldum2026.betcolivecdn5.shop/tabii6/index.m3u8?md5=whDUyxgQ9B_EILkfW7OF2w&expires=1787517782
+#EXTINF:-1 tvg-id="Tabiispor_7.tr" tvg-name="Tabiispor 7" group-title="TV Kanallari",Tabiispor 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
-https://millioldum2026.betcolivecdn5.shop/dazn1/index.m3u8?md5=TtYyAxY9VIrsSZQkhYN8Vg&expires=1787516243
-#EXTINF:-1 tvg-id="DAZN_2.tr" tvg-name="DAZN 2",DAZN 2
+https://millioldum2026.betcolivecdn5.shop/tabii7/index.m3u8?md5=_i-fd_d3Cuxn3bcWFjLEfA&expires=1787517787
+#EXTINF:-1 tvg-id="Tabiispor_8.tr" tvg-name="Tabiispor 8" group-title="TV Kanallari",Tabiispor 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
-https://millioldum2026.betcolivecdn5.shop/dazn2/index.m3u8?md5=D13UCAXO3MOuBq9z_w87_Q&expires=1787516251
-#EXTINF:-1 tvg-id="DAZN_3.tr" tvg-name="DAZN 3",DAZN 3
+https://millioldum2026.betcolivecdn5.shop/tabii8/index.m3u8?md5=DStSuXmYoCt_os9h5NjudA&expires=1787517792
+#EXTINF:-1 tvg-id="Tivibuspor.tr" tvg-name="Tivibuspor" group-title="TV Kanallari",Tivibuspor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
-https://millioldum2026.betcolivecdn5.shop/dazn3/index.m3u8?md5=yf7A5HfVS99XZ2madNEx6Q&expires=1787516259
-#EXTINF:-1 tvg-id="ESPN_1.tr" tvg-name="ESPN 1",ESPN 1
+https://millioldum2026.betcolivecdn5.shop/700/index.m3u8?md5=fOpR3GGzfx1Wksc-FllK_A&expires=1787517797
+#EXTINF:-1 tvg-id="Tivibuspor_1.tr" tvg-name="Tivibuspor 1" group-title="TV Kanallari",Tivibuspor 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
-https://millioldum2026.betcolivecdn5.shop/espn/index.m3u8?md5=LVQqtssXnd3QXA2E0ejDQw&expires=1787516267
-#EXTINF:-1 tvg-id="ESPN_2.tr" tvg-name="ESPN 2",ESPN 2
+https://millioldum2026.betcolivecdn5.shop/701/index.m3u8?md5=JTbaO6C3nUrO-HNomJSGUw&expires=1787517802
+#EXTINF:-1 tvg-id="Tivibuspor_2.tr" tvg-name="Tivibuspor 2" group-title="TV Kanallari",Tivibuspor 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
-https://millioldum2026.betcolivecdn5.shop/espn2/index.m3u8?md5=X7oqVWE8pFgJgWQl7ySmTQ&expires=1787516275
-#EXTINF:-1 tvg-id="ESPN_3.tr" tvg-name="ESPN 3",ESPN 3
+https://millioldum2026.betcolivecdn5.shop/702/index.m3u8?md5=sbMea2w0YCVqgSto6zJjkQ&expires=1787517807
+#EXTINF:-1 tvg-id="Tivibuspor_3.tr" tvg-name="Tivibuspor 3" group-title="TV Kanallari",Tivibuspor 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
-https://millioldum2026.betcolivecdn5.shop/espn3/index.m3u8?md5=-TerZD_rmdeOjzmMaL-47Q&expires=1787516283
-#EXTINF:-1 tvg-id="Sky_Sports_1.tr" tvg-name="Sky Sports 1",Sky Sports 1
+https://millioldum2026.betcolivecdn5.shop/703/index.m3u8?md5=9XG95KIkqNqPr7bSQ2uIxg&expires=1787517812
+#EXTINF:-1 tvg-id="Tivibuspor_4.tr" tvg-name="Tivibuspor 4" group-title="TV Kanallari",Tivibuspor 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
-https://millioldum2026.betcolivecdn5.shop/skysports1/index.m3u8?md5=Hev61TlB_wQDEJXAaTNk-g&expires=1787516291
-#EXTINF:-1 tvg-id="Sky_Sports_2.tr" tvg-name="Sky Sports 2",Sky Sports 2
+https://millioldum2026.betcolivecdn5.shop/704/index.m3u8?md5=H5sUd7FIOEcJKDvGyLK7qQ&expires=1787517817
+#EXTINF:-1 tvg-id="beIN_Sports_1.tr" tvg-name="beIN Sports 1" group-title="TV Kanallari",beIN Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
-https://millioldum2026.betcolivecdn5.shop/skysports2/index.m3u8?md5=wOcoX-cq6UBOzav8Em7qyA&expires=1787516299
-#EXTINF:-1 tvg-id="Sky_Sports_3.tr" tvg-name="Sky Sports 3",Sky Sports 3
+https://millioldum2026.betcolivecdn5.shop/601/index.m3u8?md5=zFXtUrYWVDziA5e_bfwfxQ&expires=1787517822
+#EXTINF:-1 tvg-id="beIN_Sports_4.tr" tvg-name="beIN Sports 4" group-title="TV Kanallari",beIN Sports 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
-https://millioldum2026.betcolivecdn5.shop/skysports3/index.m3u8?md5=EI0kU9XgGz0CfgE1safXjw&expires=1787516307
+https://millioldum2026.betcolivecdn5.shop/604/index.m3u8?md5=IHm40AUbSd1LGRN-wByDAg&expires=1787517827
+#EXTINF:-1 tvg-id="Palmeiras_vs_Vasco_Da_Gama.tr" tvg-name="Palmeiras vs Vasco Da Gama" group-title="Futbol - Brezilya Serie A",Palmeiras vs Vasco Da Gama
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
+https://millioldum2026.betcolivecdn5.shop/609/index.m3u8?md5=TVpV6o7m-4mrZAdXdwUN9g&expires=1787517712
+#EXTINF:-1 tvg-id="PSG_vs_Rennes.tr" tvg-name="PSG vs Rennes" group-title="Futbol - Fransa Ligue 1",PSG vs Rennes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
+https://millioldum2026.betcolivecdn5.shop/603/index.m3u8?md5=saqpUKiGU2EaJzK-ymVeHA&expires=1787517917
+#EXTINF:-1 tvg-id="Porto_vs_Arouca.tr" tvg-name="Porto vs Arouca" group-title="Futbol - Portekiz Liga NOS",Porto vs Arouca
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
+https://millioldum2026.betcolivecdn5.shop/604/index.m3u8?md5=IHm40AUbSd1LGRN-wByDAg&expires=1787517827
+#EXTINF:-1 tvg-id="Alanyaspor_vs_Beşiktaş.tr" tvg-name="Alanyaspor vs Beşiktaş" group-title="Futbol - Trendyol Süper Lig",Alanyaspor vs Beşiktaş
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
+https://millioldum2026.betcolivecdn5.shop/601/index.m3u8?md5=zFXtUrYWVDziA5e_bfwfxQ&expires=1787517822
+#EXTINF:-1 tvg-id="Göztepe_vs_Gençlerbirliği.tr" tvg-name="Göztepe vs Gençlerbirliği" group-title="Futbol - Trendyol Süper Lig",Göztepe vs Gençlerbirliği
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
+https://millioldum2026.betcolivecdn5.shop/602/index.m3u8?md5=54MUjXIikCUGWgiK0o1uSg&expires=1787518092
+#EXTINF:-1 tvg-id="Elche_vs_Barcelona.tr" tvg-name="Elche vs Barcelona" group-title="Futbol - İspanya La Liga",Elche vs Barcelona
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
+https://millioldum2026.betcolivecdn5.shop/607/index.m3u8?md5=UrN4AHey0X_mzL-V0U6O6w&expires=1787517687
+#EXTINF:-1 tvg-id="Getafe_vs_Racing_Santander.tr" tvg-name="Getafe vs Racing Santander" group-title="Futbol - İspanya La Liga",Getafe vs Racing Santander
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
+https://millioldum2026.betcolivecdn5.shop/607/index.m3u8?md5=UrN4AHey0X_mzL-V0U6O6w&expires=1787517687
+#EXTINF:-1 tvg-id="Torino_vs_Milan.tr" tvg-name="Torino vs Milan" group-title="Futbol - İtalya Serie A",Torino vs Milan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
+https://millioldum2026.betcolivecdn5.shop/608/index.m3u8?md5=NKiyBYyDUtD-6vH5dbI4aw&expires=1787517692
