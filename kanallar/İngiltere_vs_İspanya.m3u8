@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="İngiltere_vs_İspanya.tr" tvg-name="İngiltere vs İspanya" group-title="Futbol - UEFA Uluslar Ligi",İngiltere vs İspanya
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
+https://bc4livecdn1001.shop/ahaber/index.m3u8?md5=-qa8FzjDsp8LzGidVR3f8w&expires=1790491880
