@@ -2,48 +2,12 @@
 #EXTINF:-1 tvg-id="A_Spor.tr" tvg-name="A Spor" group-title="TV Kanallari",A Spor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
-https://bc4livecdn1001.shop/aspor/index.m3u8?md5=jnWTOFnZ_B8p0y88_AE6pg&expires=1790491440
-#EXTINF:-1 tvg-id="Beinsports_Haber.tr" tvg-name="Beinsports Haber" group-title="TV Kanallari",Beinsports Haber
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
-https://bc4livecdn1001.shop/beinsportshaber/index.m3u8?md5=4JPh488dF_fH36DTxOa1yQ&expires=1790491445
-#EXTINF:-1 tvg-id="TRT_Spor_Yıldız.tr" tvg-name="TRT Spor Yıldız" group-title="TV Kanallari",TRT Spor Yıldız
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
-https://bc4livecdn1001.shop/trtspor2/index.m3u8?md5=t9dsbkaJuiC54of8NhpLhQ&expires=1790491505
-#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8" group-title="TV Kanallari",TV8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
-https://bc4livecdn1001.shop/tv8/index.m3u8?md5=8HeOLlZvIZsJpfr32hyIyg&expires=1790491510
-#EXTINF:-1 tvg-id="Tabiispor_5.tr" tvg-name="Tabiispor 5" group-title="TV Kanallari",Tabiispor 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
-https://bc4livecdn1001.shop/tabii5/index.m3u8?md5=-g5CK31YLx5n1v9MwtU6yA&expires=1790491545
-#EXTINF:-1 tvg-id="Tabiispor_6.tr" tvg-name="Tabiispor 6" group-title="TV Kanallari",Tabiispor 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
-https://bc4livecdn1001.shop/tabii6/index.m3u8?md5=pLwiEs4m7jLL7Vcf64T6jQ&expires=1790491550
-#EXTINF:-1 tvg-id="Tivibuspor_2.tr" tvg-name="Tivibuspor 2" group-title="TV Kanallari",Tivibuspor 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
-https://bc4livecdn1001.shop/702/index.m3u8?md5=YzVN6Wp6y26OiYxT1gcvgA&expires=1790491575
-#EXTINF:-1 tvg-id="Tivibuspor_3.tr" tvg-name="Tivibuspor 3" group-title="TV Kanallari",Tivibuspor 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
-https://bc4livecdn1001.shop/703/index.m3u8?md5=XCqNmhf1yJhGLCUgRK1cUQ&expires=1790491580
-#EXTINF:-1 tvg-id="Aliağa_FK_vs_Şanlıurfaspor.tr" tvg-name="Aliağa FK vs Şanlıurfaspor" group-title="Futbol - TFF 2. Lig",Aliağa FK vs Şanlıurfaspor
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
-https://bc4livecdn1001.shop/702/index.m3u8?md5=YzVN6Wp6y26OiYxT1gcvgA&expires=1790491575
+https://bc4livecdn1001.shop/aspor/index.m3u8?md5=6I4aRrCFFq2w3baLmSNetA&expires=1790512779
 #EXTINF:-1 tvg-id="Norveç_vs_Portekiz.tr" tvg-name="Norveç vs Portekiz" group-title="Futbol - UEFA Uluslar Ligi",Norveç vs Portekiz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
-https://bc4livecdn1001.shop/aspor/index.m3u8?md5=jnWTOFnZ_B8p0y88_AE6pg&expires=1790491440
+https://bc4livecdn1001.shop/aspor/index.m3u8?md5=6I4aRrCFFq2w3baLmSNetA&expires=1790512779
 #EXTINF:-1 tvg-id="Sırbistan_vs_Hollanda.tr" tvg-name="Sırbistan vs Hollanda" group-title="Futbol - UEFA Uluslar Ligi",Sırbistan vs Hollanda
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
-https://bc4livecdn1001.shop/aspor/index.m3u8?md5=jnWTOFnZ_B8p0y88_AE6pg&expires=1790491440
-#EXTINF:-1 tvg-id="İngiltere_vs_İspanya.tr" tvg-name="İngiltere vs İspanya" group-title="Futbol - UEFA Uluslar Ligi",İngiltere vs İspanya
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
-https://bc4livecdn1001.shop/ahaber/index.m3u8?md5=-qa8FzjDsp8LzGidVR3f8w&expires=1790491880
+https://bc4livecdn1001.shop/aspor/index.m3u8?md5=6I4aRrCFFq2w3baLmSNetA&expires=1790512779
