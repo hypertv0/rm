@@ -2,8 +2,16 @@
 #EXTINF:-1 tvg-id="A_Spor.tr" tvg-name="A Spor" group-title="TV Kanallari",A Spor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
-https://bc4livecdn1001.shop/aspor/index.m3u8?md5=azm9bw4kjpkg9KiBQiDtrw&expires=1791317034
-#EXTINF:-1 tvg-id="İngiltere_vs_Çekya.tr" tvg-name="İngiltere vs Çekya" group-title="Futbol - UEFA Uluslar Ligi",İngiltere vs Çekya
+https://bc4livecdn1001.shop/aspor/index.m3u8?md5=I0C9CF5A0otDopXXCa0LFQ&expires=1791331613
+#EXTINF:-1 tvg-id="Eskişehirspor_vs_Akşehirspor.tr" tvg-name="Eskişehirspor vs Akşehirspor" group-title="Futbol - Ziraat Türkiye Kupasi ZTK",Eskişehirspor vs Akşehirspor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
-https://bc4livecdn1001.shop/aspor/index.m3u8?md5=azm9bw4kjpkg9KiBQiDtrw&expires=1791317034
+https://bc4livecdn1001.shop/aspor/index.m3u8?md5=I0C9CF5A0otDopXXCa0LFQ&expires=1791331613
+#EXTINF:-1 tvg-id="Yeşilyurt_Bld_vs_Gelecek_Siirt_56_SK.tr" tvg-name="Yeşilyurt Bld. vs Gelecek Siirt 56 SK" group-title="Futbol - Ziraat Türkiye Kupasi ZTK",Yeşilyurt Bld. vs Gelecek Siirt 56 SK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
+https://bc4livecdn1001.shop/aspor/index.m3u8?md5=I0C9CF5A0otDopXXCa0LFQ&expires=1791331613
+#EXTINF:-1 tvg-id="Zonguldakspor_vs_Düzcespor.tr" tvg-name="Zonguldakspor vs Düzcespor" group-title="Futbol - Ziraat Türkiye Kupasi ZTK",Zonguldakspor vs Düzcespor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fr-1.bc4liveiframecdn.shop/player/player2.php/
+https://bc4livecdn1001.shop/aspor/index.m3u8?md5=I0C9CF5A0otDopXXCa0LFQ&expires=1791331613
